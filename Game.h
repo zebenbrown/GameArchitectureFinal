@@ -169,7 +169,7 @@ private:
 
 //Assets
 const std::string mLOCAL_ASSET_PATH = "Assets\\";
-const std::string mASSET_PATH = "..\\..\\shared\\assets\\";
+const std::string mASSET_PATH = "assets\\";
 const std::string mCAR_PATH = "Cars\\";
 const std::string mBACKGROUND_FILENAME = "FinalProjectRoadBackground.png";
 

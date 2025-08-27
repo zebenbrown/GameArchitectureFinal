@@ -1,6 +1,6 @@
 #include "GameSoundManager.h"
 
-const std::string ASSET_PATH = "..\\..\\shared\\assets\\minetrap\\";
+const std::string ASSET_PATH = "assets\\minetrap\\";
 const std::string SOUND_PATH = ASSET_PATH + "GameSounds.txt";
 
 GameSoundManager::GameSoundManager()

@@ -1,0 +1,16 @@
+{
+  "BasicSettings": {
+
+   "mPlayer1TopLeftBoundsX" : 150,
+   "mPlayer1TopLeftBoundsY" : 25,
+   "mPlayer1BottomRightBoundsX" : 400,
+   "mPlayer1BottomRightBoundsY" : 300,
+   "mPlayer2TopLeftBoundsX" : 450,
+   "mPlayer2TopLeftBoundsY" : 25,
+   "mPlayer2BottomRightBoundsX" : 650,
+   "mPlayer2BottomRightBoundsY" : 300,
+   "mInitialNextSpawnTime" : 3000.0,
+   "mInitialDifficulty" : 7000.0
+   }
+
+}

@@ -1,0 +1,17 @@
+{
+    "BasicSettings": {
+        "Player1Score": 0,
+        "Player2Score": 0,
+        "TimeRemaining": 120000.0,
+        "activeUnitPositions": [
+            {
+                "x": 300.0,
+                "y": 500.0
+            },
+            {
+                "x": 549.93994140625,
+                "y": 500.0
+            }
+        ]
+    }
+}

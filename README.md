@@ -11,3 +11,6 @@ Make sure to set the "Final" project as the startup project otherwise the progra
 - Swapped the program from allegro to sfml
 - Implemented an object pool for the obstacles
 - Implemented data driven files for the game settings, high scores, and game saves
+
+### Demo
+![Gameplay_Demo](https://github.com/zebenbrown/GameArchitectureFinal/blob/main/demo/GameArchDemo.gif%2017-08-01-807.gif)

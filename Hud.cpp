@@ -1,6 +1,6 @@
 #include "Hud.h"
 
-const std::string ASSET_PATH = "..\\..\\shared\\assets\\";
+const std::string ASSET_PATH = "assets\\";
 const std::string FONT_FILENAME = "cour.ttf";
 const int FONT_SIZE = 30;
 const Color FONT_COLOR(255, 255, 255);

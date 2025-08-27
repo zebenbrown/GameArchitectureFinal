@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# --- Exceptions --- #
+#Do not ignore the pre-compiled library files need for the project to build
+!/SFML-3.0.0/lib/*.lib
+!/DeanLib/lib/*.lib
